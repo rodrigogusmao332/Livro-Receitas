@@ -3,3 +3,4 @@
  ÁGUA:watermelon:
 
  banana:banana:
+ maçã
